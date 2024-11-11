@@ -1,4 +1,4 @@
-# Blaize Fatimot'S Portfolio
+# Blaize Fatimot's Portfolio
 
 
 # [Project 1:PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
