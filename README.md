@@ -12,5 +12,5 @@ PetMind is a retailer of products for pets. They are based in the United States.
 The analysis and visualization of this project were done with Excel and Python.
 
 
-![PetMind](petmind dashboard.png)
+![PetMind](petmind dashboard1.png)
 
