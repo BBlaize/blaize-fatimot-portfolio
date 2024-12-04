@@ -38,7 +38,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 - Highlight Successful Regions
 - Make Data-Driven Recommendations
   
-![Adidas Sneakers Dashboard](file:///C:/Users/BLAIZE%20FATIMOT/Downloads/AdidasSneakersDashboard.png)
+![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
 
 # Project 4: Company Profit and Loss Analysis
 The goal of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
