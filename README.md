@@ -118,7 +118,7 @@ This data-driven approach can help inform targeted awareness initiatives for str
   
 The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
- ![Group 1 Dashboard](Group%201%20dashboard.png)
+# ![Group 1 Dashboard](67CpapitalLtdDash.png)
 
 # Project 5: All Fuels Futures Data Analysis
 SQL, Python, PowerBI
