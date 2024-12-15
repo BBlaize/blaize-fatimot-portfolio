@@ -22,6 +22,8 @@ I created two conditional columns for further insights. The first column was use
 The Second conditional column was used to create BMI interpretation, if BMI is less than 18.5 then “Underweight”.
 
 ![BMI Interpretation](BmiInterpretation.jpg)
+The analysis and visualization of this project were done with PowerBi.
+The report of this project was done with Microsoft PowerPoint.
 
 ### Key Insights:
 - The total number of survey participants, amounted to 5,110, and 249 participants actually have stroke.
@@ -31,7 +33,7 @@ This data-driven approach can help inform targeted awareness initiatives for str
 
 ![StrokeDashboard](StrokeDashboard.png)
 
-# Project 3: Adidas Sales Analysis
+# [Project 3: Adidas Sneakers Sales Analysis](https://medium.com/@bolanleblaize/adidas-sneakers-sales-analysis-23d5dbd2055e)
 The task of this project was to analyze Adidas Sneakers Sales Data to uncover trends and insights that drive success in the industry. 
 I used my Excel Skills to perform data analysis to provide actionable recommendations.
 - Identify Top-Performing Categories and Platforms:
@@ -40,7 +42,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
   
 ![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
 
-# [Project 4: Profit and Loss Analysis]([https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270))
+# [Project 4: Profit and Loss Analysis](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270)
 The goal of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
 ### Project Tasks
 - Identify and address any data entries to ensure all financial figures are formatted correctly in Naira.
@@ -50,6 +52,7 @@ The goal of this project is to analyze P&L data to understand revenue, expenses,
 - Give Data-Driven insights and Make Recommendations
 - 
  ![Group 1 Dashboard](Group%201%20dashboard.png)
-
+The analysis and visualization of this project were done with PowerBi.
+The report of this project was done with Microsoft PowerPoint.
 # Project 5: All Fuels Futures Data Analysis
 SQL, Python, PowerBI
