@@ -107,7 +107,7 @@ This data-driven approach can help inform targeted awareness initiatives for str
 
 
 # [Project 4: Profit and Loss Analysis](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270)
-67 Capital LTD is looking to enhance financial oversight and performance evaluation, this initiative is for a project to focus on analyzing the Profit and Loss (P&L) statements across the six branches, in South-South Nigeria, for four years ranging from 2020 to 2023. This analysis will provide valuable insights into the financial activities of the branches and help inform strategic decisions moving forward. The goal of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
+67 Capital LTD is looking to enhance financial oversight and performance evaluation, this initiative is for a project to focus on analyzing the Profit and Loss (P&L) statements across the six branches, in South-South Nigeria, for four years ranging from 2020 to 2023. This analysis will provide valuable insights into the financial activities of the branches and help inform strategic decisions moving forward. The goal of this project is to analyze their profit and loss data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
 
 ### Project Tasks
 - Identify and address any data entries to ensure all financial figures are formatted correctly in Naira.
