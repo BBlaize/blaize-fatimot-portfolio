@@ -1,7 +1,7 @@
 # Blaize Fatimot's Portfolio
 
 
-# [Project 1:PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
+# [Project 1: PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
 This is a project I did in order to earn my Data Analyst Associate Certificate from DataCamp. I worked on a Pet Company dataset.
 PetMind is a retailer of products for pets. They are based in the United States. PetMind sells products that are a mix of luxury items and everyday items.
 ### The objectives of the company was to:
@@ -12,7 +12,7 @@ The report of this project was done with Microsoft PowerPoint.
 
 ![PetMind](petmind%20dashboard1.png)
 
-# Project 2:Stroke Prediction Analysis
+# Project 2: Stroke Prediction Analysis
 A Stroke Center aims to identify individuals at higher risk of having a stroke in order to enhance awareness campaigns. 
 For this analysis, I utilized a dataset in CSV format, which I imported into Power BI. After transforming the data, I performed data manipulation to ensure it was thoroughly cleaned.
 I created two conditional columns for further insights. The first column was used to create an age group such as If age is less than or equal to 2 then “Child”, etc.
