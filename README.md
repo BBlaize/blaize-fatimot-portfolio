@@ -107,7 +107,8 @@ This data-driven approach can help inform targeted awareness initiatives for str
 
 
 # [Project 4: Profit and Loss Analysis](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270)
-The goal of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
+67 Capital LTD is looking to enhance financial oversight and performance evaluation, this initiative is for a project to focus on analyzing the Profit and Loss (P&L) statements across the six branches, in South-South Nigeria, for four years ranging from 2020 to 2023. This analysis will provide valuable insights into the financial activities of the branches and help inform strategic decisions moving forward. The goal of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
+
 ### Project Tasks
 - Identify and address any data entries to ensure all financial figures are formatted correctly in Naira.
 - Categorize transactions into revenues and expenses based on the Account Category. Calculate total revenue, total expenses, and net profit for each branch over the years.
@@ -115,8 +116,9 @@ The goal of this project is to analyze P&L data to understand revenue, expenses,
 - The visualization of analysis by using charts and graphs to illustrate trends in revenue, expenses, and net profit for each branch over the four-year period.
 - Give Data-Driven insights and Make Recommendations
   
- ![Group 1 Dashboard](Group%201%20dashboard.png)
 The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
+ ![Group 1 Dashboard](Group%201%20dashboard.png)
+
 # Project 5: All Fuels Futures Data Analysis
 SQL, Python, PowerBI
