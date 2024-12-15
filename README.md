@@ -29,7 +29,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 - Adidas Gazelle has the highest profit margin among all products, highlighting strong profitability and demand. It is competitive with Adidas Samba.
 - Adidas Spezial has sales of $528,237 (24% of total sales) and 116 units sold (23% of total sales) which is slightly lower than Samba and Gazelle but still strong.
 - Adidas Campus has a total sales of $473,803 with 126 units sold which is the lowest among the four products, indicating a need for reassessment.
-#### *Recommendations:
+#### *Recommendations:*
 - Adidas should focus on Adidas Samba and Gazelle.
 - There should be an allocation of more marketing budget to Adidas Samba and Gazelle as they drive the highest sales and profitability.
 - There should be more expansion of production or an offering of limited-edition variants to maintain consumer interest.
@@ -41,7 +41,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 - The Total sales for the Online platform is $1,168,616 (53% of total sales) with 262 units sold.
 - The Operating Profit for the Online platform is a total sum of $234,234 with a higher profit margin than the online sales platform.
 - The Total sales for the In-person platform are $1,031,068 which is 47% of total sales) with 238 units sold. The Operating Profit is a total sum of $212,569.
-#### *Recommendations:
+#### *Recommendations:*
 - Adidas should optimize In-Person Sales by investing in regions and markets where in-person sales dominate (e.g., Senegal).
 - Adidas should enhance Online Sales by launching targeted online promotions and investing in website optimization and digital advertising campaigns.
   
@@ -50,7 +50,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 - Nigeria is the most critical market, driving both online and in-person sales.
 - Senegal is a low-performing market as it accounts for only 9% of total sales. Senegal generates $67,756 in online sales and $126,821 in in-person sales.
 - In-person sales dominate in Senegal, showing a preference for physical shopping.
-#### *Recommendations:
+#### *Recommendations:*
 - Adidas should Invest more in Nigeria by running ads to strengthen its online presence in platforms in Nigeria, as they contribute significantly to sales.
 - They should launch targeted digital campaigns to further grow online sales.
 - Also, Adidas should focus on boosting Senegal’s Sales by focusing on in-person marketing campaigns to align with consumer preferences.
@@ -60,7 +60,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 #### Price Category Performance
 - The Low Price Category generated higher overall profits over the last three years with a profit of $46,741 in 2023, a profit of $72,560 in 2022, and a profit of $49,617 in 2021.
 - The High Price Category Outperformed the low category in 2023 with a sum of $58,319 in operating profit.
-### *Recommendations*
+#### *Recommendations:*
 - Adidas should capitalize on the strong performance of the high-price category in 2023 by introducing new premium products or limited-edition sneakers to sustain momentum.
 - They should sustain low-price category demand by providing more low-price sneakers in regions with price-sensitive consumers (e.g. Senegal).
 
@@ -68,7 +68,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 - Retailer D is a top retailer that leads with an operating profit of $101,125 and an operating margin of 2,143.
 - Retailer E is a high-margin performer with the highest operating margin at 2,184 and an operating profit of $91,504.
 - Retailers A, B, and C perform similarly, with operating profits ranging between $82,585 and $88,622.
-#### *Recommendations:
+#### *Recommendations:*
 Adidas should prioritize Retailer D by strengthening partnerships with Retailer D as they contribute the most to profitability.
 Adidas should explore opportunities to expand its product offerings or increase inventory allocation of Retailer D.
 There should be a collaboration with Retailer E to understand how they maintain higher margins and replicate their strategies across other retail partners.
