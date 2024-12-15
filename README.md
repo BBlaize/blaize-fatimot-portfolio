@@ -114,7 +114,7 @@ The goal of this project is to analyze P&L data to understand revenue, expenses,
 - Determine the percentage changes in revenue and expenses year-over-year. Calculate the profit margin for each branch.
 - The visualization of analysis by using charts and graphs to illustrate trends in revenue, expenses, and net profit for each branch over the four-year period.
 - Give Data-Driven insights and Make Recommendations
-- 
+  
  ![Group 1 Dashboard](Group%201%20dashboard.png)
 The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
