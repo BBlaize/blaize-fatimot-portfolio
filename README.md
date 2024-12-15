@@ -40,7 +40,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
   
 ![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
 
-# Project 4: Company Profit and Loss Analysis
+# [Project 4: Profit and Loss Analysis]([https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270))
 The goal of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across all branches. This analysis will provide a clear picture of each branch's financial health and actionable insights to improve performance.
 ### Project Tasks
 - Identify and address any data entries to ensure all financial figures are formatted correctly in Naira.
