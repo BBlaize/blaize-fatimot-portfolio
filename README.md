@@ -60,7 +60,7 @@ I used my Excel Skills to perform data analysis to provide actionable recommenda
 #### Price Category Performance
 - The Low Price Category generated higher overall profits over the last three years with a profit of $46,741 in 2023, a profit of $72,560 in 2022, and a profit of $49,617 in 2021.
 - The High Price Category Outperformed the low category in 2023 with a sum of $58,319 in operating profit.
-### *Recommendations
+### *Recommendations*
 - Adidas should capitalize on the strong performance of the high-price category in 2023 by introducing new premium products or limited-edition sneakers to sustain momentum.
 - They should sustain low-price category demand by providing more low-price sneakers in regions with price-sensitive consumers (e.g. Senegal).
 
