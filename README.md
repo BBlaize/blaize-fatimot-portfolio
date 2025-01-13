@@ -1,8 +1,12 @@
 
 
 ![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
-# Blaize Fatimot's Portfolio
+# Blaize Fatimot
+## Data Analyst
 
+## Technology Skills
+
+![Data Analytical Skills](Profilehead.png)
 
 # [Project 1: PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
 This is a project I did in order to earn my Data Analyst Associate Certificate from DataCamp. I worked on a Pet Company dataset.
