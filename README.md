@@ -8,6 +8,10 @@
 
 ![Data Analytical Skills](Profilehead.jpeg)
 
+##Professional Certifications
+##### DataCamp Associate Data Analyst ()
+##### Google Data Analyst ()
+
 # [Project 1: PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
 This is a project I did in order to earn my Data Analyst Associate Certificate from DataCamp. I worked on a Pet Company dataset.
 PetMind is a retailer of products for pets. They are based in the United States. PetMind sells products that are a mix of luxury items and everyday items.
@@ -127,5 +131,3 @@ The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
 # ![Group 1 Dashboard](67CpapitalLtdDash.png)
 
-# Project 5: All Fuels Futures Data Analysis
-SQL, Python, PowerBI
