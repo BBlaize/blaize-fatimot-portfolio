@@ -9,8 +9,8 @@
 ![Data Analytical Skills](Profilehead.jpeg)
 
 ## Professional Certifications
-##### DataCamp Associate Data Analyst ![DataCamp Data Analyst Associate](https://www.datacamp.com/certificate/DAA0012304669737)
-##### Google Data Analyst [Google Data Analyst Certification](https://www.coursera.org/account/accomplishments/specialization/WUPJLDH42EFC)
+##### [DataCamp Associate Data Analyst](https://www.datacamp.com/certificate/DAA0012304669737)
+##### [Google Data Analyst](https://www.coursera.org/account/accomplishments/specialization/WUPJLDH42EFC)
 ![Professional Certifications](IMG_3002.png)
 
 # [Project 1: PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
