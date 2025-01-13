@@ -1,6 +1,6 @@
 
 
-![Blaize Fatimot's Portfolio](ProfilePic.png)
+![Blaize Fatimot's Portfolio](IMG_3002.png)
 # Blaize Fatimot
 ## Data Analyst
 
