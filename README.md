@@ -1,6 +1,6 @@
 
 
-![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
+![Blaize Fatimot's Portfolio](ProfilePic.png)
 # Blaize Fatimot
 ## Data Analyst
 
