@@ -8,9 +8,9 @@
 
 ![Data Analytical Skills](Profilehead.jpeg)
 
-##Professional Certifications
-#### DataCamp Associate Data Analyst ![DataCamp Data Analyst Associate](IMG_2969.jpeg)
-##### Google Data Analyst (IMG_2970.jpeg)
+## Professional Certifications
+##### DataCamp Associate Data Analyst ![DataCamp Data Analyst Associate](IMG_2969.jpeg)
+##### Google Data Analyst ![Google Data Analyst Certification](IMG_2970.jpeg)
 
 # [Project 1: PetMind Implementation Strategies](https://medium.com/@bolanleblaize/data-analyst-associate-project-7040cdf55211)
 This is a project I did in order to earn my Data Analyst Associate Certificate from DataCamp. I worked on a Pet Company dataset.
