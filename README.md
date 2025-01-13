@@ -1,3 +1,6 @@
+
+
+![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
 # Blaize Fatimot's Portfolio
 
 
